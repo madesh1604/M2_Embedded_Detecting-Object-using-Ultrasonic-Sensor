@@ -1,3 +1,5 @@
+#include <object.h>
+#include <stdlib.h>
 void send_a_command(unsigned char command)
 {
     PORTB = command;
