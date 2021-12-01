@@ -11,4 +11,3 @@
 | -- | ----------- | ------ | ------ | ------------- |
 | LLT1 | Objects Range  | 20cm   | Ojects in range | PASS |
 | LLT2 | Objects Range  | 100cm  | Objects Not in range | PASS |
-
