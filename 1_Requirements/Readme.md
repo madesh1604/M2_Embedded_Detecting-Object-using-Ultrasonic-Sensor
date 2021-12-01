@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-The main Aim of this project to help the Blind people.Using this process the opposite objects,or the humanss can be easily detected.
+The main Aim of this project to help the Blind people.Using this process the opposite objects,or the humans can be easily detected.Here we used only the basic process of sensors
 This is the simple and effective projects for the blind peoples . Now days the percentage of blindness can be increasing shortly . we make this mini process of the ultrasonic sensors . This is simple and low cost product which can be low maintenence product compared to the other products. This usage of this process can be deliverable into an complete products like Smart Glass ,and walking stick.
 ## Research
 Since most of the blind person use glasses and it inspires us for installing the device on
@@ -9,12 +9,11 @@ minimum system, power supply, and the main switch are placed on a box, and the b
 can put in his/her pocket. Compare with the device from the University of Oxford, this device
 is more practical and easier to use. 
 ## Defining our project
-This device includes a pair of glasses and an obstacle detection module fitted in it in the center, a processing unit, an output device i.e. a beeping component, and a power supply. The Obstacle detection module and the output device is connected to the processing unit. The power supply is used to supply power to the central processing unit. The obstacle detection module basically consists of a ultrasonic sensor, processing unit consist of a control module and the output unit consists of a buzzer. 
-The control unit controls the ultrasonic sensors and get the information of the obstacle present in front of the man and processes the information and sends the output through the buzzer accordingly. These Ultrasonic Smart Glasses for Blind people is a portable device, easy to use, light weight, user friendly and cheap in price. These glasses could easily guide the blind people and help them avoid obstacles.
+Ultrasonic sensor “HC-SR04” provides an output signal proportional to distance based on the echo. The sensor here generates a sound vibration in ultrasonic range upon giving a trigger, after that it waits for the sound vibration to return. Now based on the parameters, sound speed (220m/s) and time taken for the echo to reach the source, it provides output pulse proportional to distance.
 
 ## Features
 * It Has an weather assistance it will works in any weathers .
-* Audio systems used in this projects will give some clear informations to the users.
+* LCD used in this projects will give some clear informations to the users.
 
 __Components Used__
 * Atmega328
@@ -27,11 +26,11 @@ __Components Used__
 __STRENGTH__
 * It work like an alert system for the blind people.
 * It is   cheaper than compared to the existing system .
-* The audio out available in this project makes the blind people aware of the  opposite objects .
+* The LCD out available in this project makes the  people to detect  of the  opposite objects .
   
 __WEAKNESS__
 * It gives only the information of the opposite objects only.
-* Glasses will be mandatory to wear when ever  they wanted to go.
+* Due to we used only one ultra sonic sensor This gives only information of lesser distance.
 
 __OPPURTUNITIES__
 *  There will be no need for the dependent to go outside.
@@ -67,6 +66,6 @@ __High Level Requirements__
 __Low Level Requirements__
 | ID | Description | Status |
 | -- | ----------- | ------ |
-| LLR1 | Audio Out | Used for the output of the Microcontroller |
+| LLR1 | Buzzer | Used for the output of the Microcontroller |
 | LLR2 | Glass | Used  as  support for the sensor |
 | LLR3 | LCD   | Used for the output calculations |
