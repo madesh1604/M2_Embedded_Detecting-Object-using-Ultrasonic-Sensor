@@ -3,7 +3,7 @@
 The main Aim of this project to help the Blind people.Using this process the opposite objects,or the humans can be easily detected.Here we used only the basic process of sensors
 This is the simple and effective projects for the blind peoples . Now days the percentage of blindness can be increasing shortly . we make this mini process of the ultrasonic sensors . This is simple and low cost product which can be low maintenence product compared to the other products. This usage of this process can be deliverable into an complete products like Smart Glass ,and walking stick.
 ## Research
-Since most of the blind person use glasses and it inspires us for installing the device on
+In this project we used only demo functions. Since most of the blind person use glasses and it inspires us for installing the device on
 glasses. The ultrasonic sensor is installed on the glasses, but the main unit which including the
 minimum system, power supply, and the main switch are placed on a box, and the blind person
 can put in his/her pocket. Compare with the device from the University of Oxford, this device
