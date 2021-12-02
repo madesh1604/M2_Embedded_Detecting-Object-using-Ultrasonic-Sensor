@@ -1,5 +1,5 @@
 # Report
-# Requirements
+## Requirements
 ## Introduction
 The main Aim of this project to help the Blind people.Using this process the opposite objects,or the humans can be easily detected.Here we used only the basic process of sensors
 This is the simple and effective projects for the blind peoples . Now days the percentage of blindness can be increasing shortly . we make this mini process of the ultrasonic sensors . This is simple and low cost product which can be low maintenence product compared to the other products. This usage of this process can be deliverable into an complete products like Smart Glass ,and walking stick.
@@ -83,7 +83,7 @@ __Low Level Requirements__
 ## Simulation
 ![image](https://user-images.githubusercontent.com/91029826/144368442-4565e888-4cf0-4dd4-8e62-5d31654e1dd5.png)
 
-# Test Plan
+## Test Plan
 ## High Level Test Plan
 | ID | Description | Ex I/P | Ex O/P | Actual Output |
 | -- | ----------- | ------ | ------ | ------------- |
