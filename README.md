@@ -1,10 +1,10 @@
 # M2_Embedded_Detecting-Object-using-Ultrasonic-Sensor
 
-# Badges
+## Badges
 [![Cppcheck](https://github.com/madesh1604/M2_Embedded_Detecting-Object-using-Ultrasonic-Sensor/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/madesh1604/M2_Embedded_Detecting-Object-using-Ultrasonic-Sensor/actions/workflows/cppcheck.yml)
 
 
-# Folder Structure
+## Folder Structure
 | Folder | Description |
 | ------ | ----------- |
 | 1_Requirements | Details of requirements and research |
