@@ -11,3 +11,12 @@
 | -- | ----------- | ------ | ------ | ------------- |
 | LLT1 | Objects Range  | 20cm   | Ojects in range | PASS |
 | LLT2 | Objects Range  | 100cm  | Objects Not in range | PASS |
+
+## Output
+  __OFF__
+
+![image](https://user-images.githubusercontent.com/91029826/144368442-4565e888-4cf0-4dd4-8e62-5d31654e1dd5.png)
+
+  __ON__
+  
+  
