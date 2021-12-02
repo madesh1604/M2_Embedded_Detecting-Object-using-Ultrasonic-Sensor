@@ -3,7 +3,6 @@
 ## Badges
 [![Cppcheck](https://github.com/madesh1604/M2_Embedded_Detecting-Object-using-Ultrasonic-Sensor/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/madesh1604/M2_Embedded_Detecting-Object-using-Ultrasonic-Sensor/actions/workflows/cppcheck.yml)
 
-
 ## Folder Structure
 | Folder | Description |
 | ------ | ----------- |
