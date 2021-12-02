@@ -74,3 +74,7 @@ __Low Level Requirements__
 ## Behavioural Diagram
 ![image](https://user-images.githubusercontent.com/91029826/144367461-52d7c8b8-a474-4ce7-84e4-5db6326b2d5f.png)
 
+## Block Diagram
+![image](https://user-images.githubusercontent.com/91029826/144367585-f03da840-93c5-4f1a-ab9e-454a8af077d6.png)
+
+
