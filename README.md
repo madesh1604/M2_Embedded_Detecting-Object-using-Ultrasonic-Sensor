@@ -15,5 +15,13 @@
 | 6_Images | Output Images |
 
 ## Actions
-OFF
+
+  __OFF__
+  
 ![image](https://user-images.githubusercontent.com/91029826/144368442-4565e888-4cf0-4dd4-8e62-5d31654e1dd5.png)
+
+   __ON__
+   
+![image](https://user-images.githubusercontent.com/91029826/144378478-d74f79bb-dbe9-4a00-98a2-41c25d66455e.png)
+   
+   
