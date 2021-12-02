@@ -38,7 +38,7 @@ __OPPURTUNITIES__
 *   We also make this glasses for the reading purpose also *Smart Glass For the Blind* with some added specifications.
  
 __THREATS__
-*  The major challenges is There will be an Battery backup .If they go for some long distance then battery backups is concerned .
+*   The major challenges is There will be an Battery backup .If they go for some long distance then battery backups is concerned .
 
 ## 4W'S and 1'H
 __WHO__
