@@ -13,3 +13,7 @@
 | 4_Test Plan | Test plans and Procedures |
 | 5_Report | Documentation of Whole project |
 | 6_Images | Output Images |
+
+## Actions
+OFF
+![image](https://user-images.githubusercontent.com/91029826/144368442-4565e888-4cf0-4dd4-8e62-5d31654e1dd5.png)
