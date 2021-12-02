@@ -70,3 +70,7 @@ __Low Level Requirements__
 | LLR1 | Buzzer | Used for the output of the Microcontroller |
 | LLR2 | Glass | Used  as  support for the sensor |
 | LLR3 | LCD   | Used for the output calculations |
+
+## Behavioural Diagram
+![image](https://user-images.githubusercontent.com/91029826/144367461-52d7c8b8-a474-4ce7-84e4-5db6326b2d5f.png)
+
