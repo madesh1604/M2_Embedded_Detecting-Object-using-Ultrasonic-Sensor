@@ -87,7 +87,6 @@ __Low Level Requirements__
 ## __ON__
 ![image](https://user-images.githubusercontent.com/91029826/144380687-e883ca20-8f5c-4344-808c-cf896e4dfc2a.png)
 
-
 ## Test Plan
 ## High Level Test Plan
 | ID | Description | Ex I/P | Ex O/P | Actual Output |
